@@ -1,1 +1,1 @@
-# training_repository
+No code, no pain
